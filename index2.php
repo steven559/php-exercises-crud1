@@ -36,6 +36,9 @@ width:60%;
             line-height: 19px;
             margin: 0 auto;
         }
+        h2{
+
+        }
 
         h1 {
 
@@ -277,3 +280,4 @@ function affiche6()
     }
 }
 affiche6();
+
